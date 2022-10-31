@@ -11,7 +11,7 @@ eleventyNavigation:
     order: 3
 ---
 
-11ty starter template build using Fylgja CSS.
+11ty starter template build using Fylgja.
 
 This 11ty starter is based on our very own site fylgja.dev, but slimmed down so it is just bare bones version, with just enough things without adding to much.
 
